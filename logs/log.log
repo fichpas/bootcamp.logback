@@ -1,0 +1,5 @@
+02-09-2022 18:27:32.851 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.22 seconds (JVM running for 2.029)
+02-09-2022 18:27:32.858 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to debug - value
+02-09-2022 18:27:32.860 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - doStuff took input - value
+02-09-2022 18:27:32.860 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to warn - value
+02-09-2022 18:27:32.860 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - doStuff encountered an error with value - value

@@ -1,0 +1,9 @@
+31-08-2022 17:28:42.744 [main] INFO  com.lankydan.Application.logStarting - Starting Application using Java 11.0.9 on LIM-37RH473 with PID 17396 (C:\ws\logback-with-springboot-config-master\target\classes started by fichpasb in C:\ws\logback-with-springboot-config-master)
+31-08-2022 17:28:42.748 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following 1 profile is active: "dev"
+31-08-2022 17:28:43.331 [main] INFO  com.lankydan.Application.logStarted - Started Application in 1.003 seconds (JVM running for 1.518)
+31-08-2022 17:28:43.333 [main] DEBUG com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to debug - value
+31-08-2022 17:28:43.336 [main] INFO  com.lankydan.service.MyServiceImpl.doStuff - doStuff took input - value
+31-08-2022 17:28:43.336 [main] WARN  com.lankydan.service.MyServiceImpl.doStuff - doStuff needed to warn - value
+31-08-2022 17:28:43.336 [main] ERROR com.lankydan.service.MyServiceImpl.doStuff - doStuff encountered an error with value - value
+02-09-2022 18:27:32.158 [main] INFO  com.lankydan.Application.logStarting - Starting Application using Java 11.0.9 on LIM-37RH473 with PID 22332 (C:\ws\logback-with-springboot-config-master\target\classes started by fichpasb in C:\ws\logback-with-springboot-config-master)
+02-09-2022 18:27:32.163 [main] INFO  com.lankydan.Application.logStartupProfileInfo - The following 1 profile is active: "dev"
